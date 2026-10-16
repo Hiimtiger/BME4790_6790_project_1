@@ -1,5 +1,5 @@
 # BME4790_6790_project_1
-code for Cornell 2026 Fall BME 4790/6790 Project 1 Image classification /
+code for Cornell 2026 Fall BME 4790/6790 Project 1 Image classification 
 please put the dataset: "bloodcells_processed" in the folder as well. relative paths are alreadt written in code, so no need to change anything
 # Blood Cell Classification Using CNNs
 
