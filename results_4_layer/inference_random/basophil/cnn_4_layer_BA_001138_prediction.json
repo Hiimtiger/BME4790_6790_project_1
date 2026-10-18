@@ -1,0 +1,24 @@
+{
+    "image_path": "bloodcells_processed\\test\\BA_001138.jpg",
+    "filename": "BA_001138.jpg",
+    "dataset_split": "test",
+    "random_seed": 42,
+    "model_depth": 4,
+    "checkpoint_path": "saved_model\\cnn_4_layer_best.pth",
+    "checkpoint_epoch": 47,
+    "best_validation_loss": 0.07253617878281383,
+    "true_class": "Basophil",
+    "predicted_class": "Basophil",
+    "confidence": 0.9979857206344604,
+    "correct": true,
+    "class_probabilities": {
+        "Basophil": 0.9979857206344604,
+        "Eosinophil": 1.7893536323754233e-06,
+        "Erythroblast": 5.219205377215985e-06,
+        "Immature Granulocyte": 0.0006743885460309684,
+        "Lymphocyte": 0.001331915846094489,
+        "Monocyte": 1.0306680451321881e-06,
+        "Neutrophil": 4.6615504345481895e-08,
+        "Platelet": 5.381385602363782e-17
+    }
+}

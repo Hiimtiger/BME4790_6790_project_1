@@ -1,0 +1,9 @@
+filename,true_class,predicted_class,confidence,correct,model_depth,seed
+BA_000994.jpg,Basophil,Basophil,0.9684613943099976,True,4,67
+EO_002613.jpg,Eosinophil,Eosinophil,0.9996644258499146,True,4,67
+ERB_001451.jpg,Erythroblast,Erythroblast,0.9999998807907104,True,4,67
+IG_002795.jpg,Immature Granulocyte,Immature Granulocyte,0.8808630108833313,True,4,67
+LY_001078.jpg,Lymphocyte,Lymphocyte,0.9987335801124573,True,4,67
+MO_001273.jpg,Monocyte,Monocyte,0.9996287822723389,True,4,67
+BNE_003274.jpg,Neutrophil,Neutrophil,0.9997829794883728,True,4,67
+PLATELET_002098.jpg,Platelet,Platelet,0.9997962117195129,True,4,67

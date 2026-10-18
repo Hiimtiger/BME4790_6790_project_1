@@ -1,0 +1,24 @@
+{
+    "image_path": "bloodcells_processed\\test\\PLATELET_002256.jpg",
+    "filename": "PLATELET_002256.jpg",
+    "dataset_split": "test",
+    "random_seed": 42,
+    "model_depth": 4,
+    "checkpoint_path": "saved_model\\cnn_4_layer_best.pth",
+    "checkpoint_epoch": 47,
+    "best_validation_loss": 0.07253617878281383,
+    "true_class": "Platelet",
+    "predicted_class": "Platelet",
+    "confidence": 0.9997026324272156,
+    "correct": true,
+    "class_probabilities": {
+        "Basophil": 1.991267254197737e-06,
+        "Eosinophil": 1.526398591522593e-05,
+        "Erythroblast": 0.00012409007467795163,
+        "Immature Granulocyte": 7.2751863626763225e-06,
+        "Lymphocyte": 4.544680632534437e-05,
+        "Monocyte": 1.4417128113564104e-05,
+        "Neutrophil": 8.890750905266032e-05,
+        "Platelet": 0.9997026324272156
+    }
+}
