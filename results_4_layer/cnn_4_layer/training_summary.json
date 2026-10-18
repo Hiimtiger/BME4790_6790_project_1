@@ -1,0 +1,19 @@
+{
+  "model_name": "cnn_4_layer",
+  "num_conv_layers": 4,
+  "trainable_parameters": 390472,
+  "optimizer": "adam",
+  "learning_rate": 0.001,
+  "weight_decay": 0.0001,
+  "batch_size": 16,
+  "max_epochs": 100,
+  "patience": 10,
+  "seed": 42,
+  "best_epoch": 47,
+  "best_val_loss": 0.07253617878281383,
+  "best_val_accuracy": 0.9762340036563071,
+  "best_val_macro_f1": 0.9752998721951113,
+  "epochs_completed": 57,
+  "training_time_seconds": 6553.083956400001,
+  "checkpoint_path": "saved_model\\cnn_4_layer_best.pth"
+}
